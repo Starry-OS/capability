@@ -11,5 +11,5 @@ documentation = "https://rcore-os.github.io/arceos/capability/index.html"
 keywords = ["Starry"]
 
 [dependencies]
-bitflags = "2.2"
+bitflags = "2.6"
 axerrno = { git = "https://github.com/Starry-OS/axerrno.git" }
